@@ -17,9 +17,9 @@ The GS is structured as follows:
   '\t' is considered as 4 white spaces
 
 
-# Authors # 
+# Authors 
 //
 
-# Licence #
+# Licence
 Apache v2
 
